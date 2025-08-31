@@ -48,6 +48,7 @@
     - [{#44}] ***White with Purple background***
     - [{#45}] ***White with Light Blue background***
     - [x] #46 ***White background with no text***
+    - [x] #47 **whie** 
 
 ## Where I got some ideas and code from:
 - https://github.com/cassiofb-dev/fastfetch-config/tree/main
