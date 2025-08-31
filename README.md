@@ -1,1 +1,53 @@
 # Fastfetch config
+
+## What the {#29} in "key" does:
+- It displays the text that comes after in different formats:
+    - [{#1}] ***White***
+    - [{#2}] ***Gray***
+    - [{#3}] ***Cursive***
+    - [{#4}] ***Underlined***
+    - [{#5}] ***White again***
+    - [{#6}] ***White again***
+    - [{#7}] ***Black with White background***
+    - [{#8}] ***White again***
+    - [{#9}] ***Crossed out***
+    - [{#10}] ***White again***
+    - [{#11}] ***White again***
+    - [{#12}] ***White again***
+    - [{#13}] ***White again***
+    - [{#14}] ***White again***
+    - [{#15}] ***White again***
+    - [{#16}] ***White again***
+    - [{#17}] ***White again***
+    - [{#18}] ***White again***
+    - [{#19}] ***White again***
+    - [{#20}] ***White again***
+    - [{#21}] ***Double underline***
+    - [{#22}] ***Not bold***
+    - [{#23}] ***White again***
+    - [{#24}] ***White again***
+    - [{#25}] ***White again***
+    - [{#26}] ***White again***
+    - [{#27}] ***White again***
+    - [{#28}] ***White again***
+    - [{#29}] ***White again***
+    - [{#30}] ***Black***
+    - [{#31}] ***Red***
+    - [{#32}] ***Green***
+    - [{#33}] ***Yellow***
+    - [{#34}] ***Blue***
+    - [{#35}] ***Purple***
+    - [{#36}] ***Light Blue***
+    - [{#37}] ***White again***
+    - [{#38}] ***White again***
+    - [{#39}] ***White again***
+    - [{#40}] ***White again***
+    - [{#41}] ***White with Green background***
+    - [{#42}] ***White with Yellow background***
+    - [{#43}] ***White with Blue background***
+    - [{#44}] ***White with Purple background***
+    - [{#45}] ***White with Light Blue background***
+    - [{#46}] ***White background with no text***
+
+## Where I got some ideas and code from:
+- https://github.com/cassiofb-dev/fastfetch-config/tree/main
